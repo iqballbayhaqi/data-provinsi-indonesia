@@ -35,5 +35,5 @@
     { "id": 32, "province": "Maluku Utara", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Coat_of_arms_of_North_Maluku.png/100px-Coat_of_arms_of_North_Maluku.png" },
     { "id": 33, "province": "Papua Barat", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_West_Papua.svg/100px-Coat_of_arms_of_West_Papua.svg.png" },
     { "id": 34, "province": "Papua", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Coat_of_arms_of_Papua.svg/100px-Coat_of_arms_of_Papua.svg.png" },
-  ],
+  ]
 }
