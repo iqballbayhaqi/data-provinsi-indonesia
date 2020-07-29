@@ -2,7 +2,7 @@
 list Province of Indonesia
 
 - Province Name
-- Province Logo
+- Province Logo via [wikipedia](https://id.wikipedia.org/)
 
 ## Endpoint
 Page 1 : 1 - 30 Province 
