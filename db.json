@@ -1,5 +1,5 @@
 {
-  "data": [
+  "page1": [
     {
       "id": 1,
       "province": "Aceh",
@@ -149,7 +149,9 @@
       "id": 30,
       "province": "Sulawesi Utara",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Coat_of_arms_of_North_Sulawesi.svg/100px-Coat_of_arms_of_North_Sulawesi.svg.png"
-    },
+    }
+  ],
+  "page2": [
     {
       "id": 31,
       "province": "Maluku",
